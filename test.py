@@ -16,5 +16,5 @@ while i < _len:
     outcom += str(count) + _token1 + num[i] + _token2
     i += count
     token_index += 2
-print(outcom + token[token_index:])
+print(outcom + token[token_index:]
 
